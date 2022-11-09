@@ -14,9 +14,11 @@ Durante as aulas na disciplina de Desenvolvimento na Plataforma Android 1 tive a
 1) App de Pedido Pizza
 ## Assista ao vídeo
 [![pedidopizzafoto](https://user-images.githubusercontent.com/32855779/200724228-36119546-6a5e-4236-b3d4-2a9a0a47488b.PNG)](https://drive.google.com/file/d/1EFJJo8XQhoZ0rbPVaCJwYPk1zD_Wb3VC/view?usp=sharing)
+
 2) App Nutrilife
 ## Assista ao vídeo
 [![nutrilifefoto](https://user-images.githubusercontent.com/32855779/200724283-58eaee72-a365-4593-8a3f-1e89ab238a39.PNG)](https://drive.google.com/file/d/1Zzd10iooqDGu9CHeVz6rHGsMmzGbnIev/view?usp=sharing)
+
 ##Como encerramento da disciplina ministrada, foi proposta como tarefa final a ser desenvolvida o app Pagamento de Compras
 3) App Pagamento de Compras
 ## Assista ao vídeo
@@ -26,9 +28,11 @@ Durante as aulas na disciplina de Desenvolvimento na Plataforma Android 2 tive a
 1) App Bloco de Notas
 ## Assista ao vídeo
 [![blocodenotasfotos](https://user-images.githubusercontent.com/32855779/200724442-a16d1c38-ce2f-4533-b5f3-bbeea030a836.PNG)](https://drive.google.com/file/d/186fLnwpYOYWNo-CQD7ZF05Jilh3o-4Wc/view?usp=sharing)
+
 2) App Lista de Contatos
 ## Assista ao vídeo
 [![listadecontatosfotos](https://user-images.githubusercontent.com/32855779/200724570-922cc858-19a6-461f-adac-cfd8b20a139f.PNG)](https://drive.google.com/file/d/1vy4R6ICLQCwle6zCsuxRfxQb_crSZ65_/view?usp=sharing)
+
 ##Como encerramento da disciplina ministrada, foi proposto como projeto Final:
 Desenvolva um aplicativo que permite o usuário consultar um determinado endereço a partir do CEP informado via interface gráfica. O aplicativo deve fornecer ao usuário a opção de salvar o endereço e uma opção para exibi-lo no mapa. Além disso, o aplicativo deve exibir uma lista de todos os endereços salvos pelo usuário. Desse modo, o aplicativo deve conter as seguintes funções:
 
