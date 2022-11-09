@@ -18,7 +18,7 @@ O Aplicativo tem como finalidade:
 
 [![pagamentocomprafoto](https://user-images.githubusercontent.com/32855779/200724310-05c002a1-520b-44ee-866d-1acb9677d9ce.PNG)](https://youtu.be/vt5fpE0bzSY)
 
-[![blocodenotasfotos](https://user-images.githubusercontent.com/32855779/200724442-a16d1c38-ce2f-4533-b5f3-bbeea030a836.PNG)](https://youtu.be/vt5fpE0bzSY)
+[![blocodenotasfotos](https://user-images.githubusercontent.com/32855779/200724442-a16d1c38-ce2f-4533-b5f3-bbeea030a836.PNG)](https://drive.google.com/file/d/186fLnwpYOYWNo-CQD7ZF05Jilh3o-4Wc/view?usp=sharing)
 
 [![listadecontatosfotos](https://user-images.githubusercontent.com/32855779/200724570-922cc858-19a6-461f-adac-cfd8b20a139f.PNG)](https://youtu.be/vt5fpE0bzSY)
 
