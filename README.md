@@ -21,6 +21,7 @@ Durante as aulas na disciplina de Desenvolvimento na Plataforma Android 1 tive a
 
 ##Como encerramento da disciplina ministrada, foi proposta como tarefa final a ser desenvolvida o app Pagamento de Compras
 3) App Pagamento de Compras
+
 ## Assista ao vídeo
 [![pagamentocomprafoto](https://user-images.githubusercontent.com/32855779/200724310-05c002a1-520b-44ee-866d-1acb9677d9ce.PNG)](https://drive.google.com/file/d/1jiqzRLXPdEPgJgjsCDXqb0M-L3BuWIX8/view?usp=sharing)
 
