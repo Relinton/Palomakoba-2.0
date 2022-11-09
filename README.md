@@ -48,6 +48,7 @@ Exibir endereços: Essa opção deve permitir ao usuário listar todos os endere
 Como recursos, o aplicativo deverá utilizar a API Retrofit (Web Services) para consultar os endereços a partir do CEP, SQLite para armazenamento permanente dos dados, ListView ou RecyclerView para listagem dos itens e Google Maps API para criação do mapa.
 
 Por fim, utilize o 5) sensor acelerômetro para permitir que usuário finalize o aplicativo a partir da movimentação do eixo X e utilize 6) Broadcast Receiver para monitorar a bateria do dispositivo. Nesse último caso, se a bateria estiver menor que 50%, essa dado desse ser informado ao usuário. 
+
 3) App Consultor de Endereços
 ## Assista ao vídeo
 [![Consultordeenderecosfotos](https://user-images.githubusercontent.com/32855779/200724469-c5653dc3-d57c-4e52-8271-622948b8261d.PNG)](https://drive.google.com/file/d/13ec2h4Wz7SmAmHvzBX2zRYkJENtcckXC/view?usp=sharing)
