@@ -12,19 +12,19 @@ O Aplicativo tem como finalidade:
 5) Utilizar o Broadcast Receiver para monitorar a bateria do dispositivo. Nesse último caso, se a bateria estiver menor que 50%, essa dado desse ser informado ao usuário. 
 
 ## Layout web
-[![pedidopizzafoto](https://user-images.githubusercontent.com/32855779/200724228-36119546-6a5e-4236-b3d4-2a9a0a47488b.PNG)](https://youtu.be/vt5fpE0bzSY)
+[![pedidopizzafoto](https://user-images.githubusercontent.com/32855779/200724228-36119546-6a5e-4236-b3d4-2a9a0a47488b.PNG)](https://drive.google.com/drive/folders/10r0ATNNcS69s68dmNPH2l3ZTWa-pxyav)
 
-![nutrilifefoto](https://user-images.githubusercontent.com/32855779/200724283-58eaee72-a365-4593-8a3f-1e89ab238a39.PNG)
+[![nutrilifefoto](https://user-images.githubusercontent.com/32855779/200724283-58eaee72-a365-4593-8a3f-1e89ab238a39.PNG)](https://drive.google.com/drive/folders/10r0ATNNcS69s68dmNPH2l3ZTWa-pxyav)
 
-![pagamentocomprafoto](https://user-images.githubusercontent.com/32855779/200724310-05c002a1-520b-44ee-866d-1acb9677d9ce.PNG)
+[![pagamentocomprafoto](https://user-images.githubusercontent.com/32855779/200724310-05c002a1-520b-44ee-866d-1acb9677d9ce.PNG)](https://youtu.be/vt5fpE0bzSY)
 
-![blocodenotasfotos](https://user-images.githubusercontent.com/32855779/200724442-a16d1c38-ce2f-4533-b5f3-bbeea030a836.PNG)
+[![blocodenotasfotos](https://user-images.githubusercontent.com/32855779/200724442-a16d1c38-ce2f-4533-b5f3-bbeea030a836.PNG)](https://youtu.be/vt5fpE0bzSY)
 
-![listadecontatosfotos](https://user-images.githubusercontent.com/32855779/200724570-922cc858-19a6-461f-adac-cfd8b20a139f.PNG)
+[![listadecontatosfotos](https://user-images.githubusercontent.com/32855779/200724570-922cc858-19a6-461f-adac-cfd8b20a139f.PNG)](https://youtu.be/vt5fpE0bzSY)
 
-![Consultordeenderecosfotos](https://user-images.githubusercontent.com/32855779/200724469-c5653dc3-d57c-4e52-8271-622948b8261d.PNG)
+[![Consultordeenderecosfotos](https://user-images.githubusercontent.com/32855779/200724469-c5653dc3-d57c-4e52-8271-622948b8261d.PNG)](https://youtu.be/vt5fpE0bzSY)
 
-![listagemdecomprasfoto](https://user-images.githubusercontent.com/32855779/200724633-d606ab74-ead5-43fb-8c69-4272957397e9.PNG)
+[![listagemdecomprasfoto](https://user-images.githubusercontent.com/32855779/200724633-d606ab74-ead5-43fb-8c69-4272957397e9.PNG)](https://youtu.be/vt5fpE0bzSY)
 
 
 # Tecnologias utilizadas
